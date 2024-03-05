@@ -1,0 +1,7 @@
+MiracleRadius_composition_average
+SecondIonizationEnergy_min_value
+Density_composition_average
+IsMetal_composition_average
+ThirdIonizationEnergy_min_value
+MiracleRadius_max_value
+NpValence_composition_average
