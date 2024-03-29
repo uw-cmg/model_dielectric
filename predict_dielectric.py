@@ -76,7 +76,7 @@ def make_predictions(comp_list):
         pred_dict[d] = domains[d]
 
     del pred_dict['y_pred']
-    del pred_dict['d_pred']
+    #del pred_dict['d_pred']
     del pred_dict['y_stdu_pred']
     del pred_dict['y_stdc_pred']
 
